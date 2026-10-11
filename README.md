@@ -1,59 +1,53 @@
-# Digital Logic System Design (DLSD) Lab – Simulink Models
+# MATLAB Simulink Experiments
 
-This repository contains Simulink models developed as part of the Digital Logic System Design (DLSD) laboratory coursework.
+This repository contains my **Digital Logic and System Design (DLSD)** experiments implemented using MATLAB Simulink, along with available experiment documentation in PDF format.
 
-The experiments demonstrate the implementation of fundamental digital logic circuits using MATLAB Simulink, including combinational and sequential logic designs.
+## 📁 Repository Structure
 
+```text
+SIMULINK/
+├── DLSD/
+│   ├── exp1.slx
+│   ├── exp2.slx
+│   ├── ...
+│   └── exp12.slx
+├── DLSD PDF/
+│   ├── exp1.pdf
+│   ├── exp2.pdf
+│   ├── ...
+│   └── exp12.pdf
+└── README.md
+```
 
----
+*Note: The PDF folder contains only the experiment records currently available.*
 
+## 🧪 Experiments
 
-## 🧠 Objectives
-
-- To understand the working of basic digital logic circuits
-- To design and simulate logic systems using MATLAB Simulink
-- To verify truth tables and logical operations through simulation
-
----
+The repository includes Simulink models for Experiments 1–12. Each model is stored in the `DLSD` folder, while the corresponding PDF documentation is stored in `DLSD PDF` whenever available.
 
 ## 🛠️ Tools Used
 
 - MATLAB
 - Simulink
-- Logic Gates Blockset
+
+## 🚀 How to Use
+
+1. Clone or download this repository.
+2. Open MATLAB.
+3. Navigate to the `DLSD` folder.
+4. Open the required `.slx` file in Simulink.
+5. Run the model and observe the output.
+
+## 🎯 Purpose
+
+This repository serves as a collection of academic lab experiments, simulation models, and supporting documentation for learning and practice.
+
+## 📌 Notes
+
+- Experiment models are provided in MATLAB Simulink format (`.slx`).
+- PDF documentation is included where available.
+- MATLAB and Simulink versions may affect compatibility.
 
 ---
 
-## 📸 Output
-
-Each experiment folder contains:
-
-- Simulink model file (.slx)
-- Output screenshots
-- Description of the experiment
-
----
-
-## 🎯 Learning Outcomes
-
-Through these experiments, the following concepts were understood:
-
-- Combinational Logic Design
-- Sequential Logic Circuits
-- Boolean Algebra Implementation
-- Digital Circuit Simulation
-
----
-
-## 👨‍💻 Author
-
-**Name:** SAI SUBHASH KOLANU
-**Course:** B.Tech  
-**Subject:** Digital Logic System Design Lab  
-
----
-
-## ⭐ Notes
-
-These models are created for educational purposes and learning digital electronics concepts using simulation tools.
-
+**Maintained by:** [Subhashkolanu](https://github.com/Subhashkolanu)
